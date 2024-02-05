@@ -60,5 +60,20 @@
 
 .subitem-link {
   display: flex;
+  justify-content: space-between;
   align-items: center;
 }
+
+/* .submenu__list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.submenu__list-item {
+  padding: 5px 0;
+}
+
+.submenu__heading {
+  font-weight: bold;
+} */

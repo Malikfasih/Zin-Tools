@@ -6,7 +6,6 @@ import { FaYoutube } from "react-icons/fa";
 import { FaTwitter } from "react-icons/fa";
 import { FaFacebookF } from "react-icons/fa";
 import { FiMoon } from "react-icons/fi";
-import Image from "next/image";
 
 const footer = () => {
   return (
